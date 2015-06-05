@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1920" height="1080">    
+    
+  <entity x="800" y="640" type="player"/>
+ <entity x="800" y="440" type="player2"/>
+   <entity x="900" y="540" type="player3"/>
+  <entity x="1000" y="440" type="player4"/>
+ <entity x="1100" y="540" type="player5"/>
+  <entity x="1000" y="640" type="player6"/>
+  
+</level>
+
